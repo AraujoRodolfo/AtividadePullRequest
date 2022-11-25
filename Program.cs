@@ -25,7 +25,9 @@ namespace FimTPA
                 Console.WriteLine();
                 h++;
                 y--;
+                Console.WriteLine("          ||          ")
                 Console.ReadKey();
+                
 
             }
             
