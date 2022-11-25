@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,10 +25,11 @@ namespace FimTPA
                 Console.WriteLine();
                 h++;
                 y--;
-                Console.ReadKey();
-
             }
-            
+
+            Console.WriteLine("         |_|");
+            Console.ReadKey();
+
         }
     }
 }
