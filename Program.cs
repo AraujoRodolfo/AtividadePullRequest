@@ -35,6 +35,7 @@ namespace ConsoleApp5
                 h++;
                 y--;
                 
+
             }
             Console.ReadKey();
         }
