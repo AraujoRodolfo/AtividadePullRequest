@@ -28,7 +28,10 @@ namespace FimTPA
                 Console.ReadKey();
 
             }
-            
+            Console.WriteLine("       ******        ");
+            Console.WriteLine("       ******        ");
+            Console.WriteLine("       ******        ");
+            Console.ReadKey();            
         }
     }
 }
